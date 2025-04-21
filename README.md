@@ -9,3 +9,10 @@
 7. git branch -M main
 8. git remote add origin https://github.com/Fabdev14/ferst-repository.git
 9. git push -u origin main
+
+Luego de creado el repositorio, ejecutar los siguientes comandos después de hacer modificaciones en los archivos.
+
+1. git status -> para tener información en qué estado se encuentra el archivo modificado
+2. git add .
+3. git commit -m"asdasdasdasd"
+4. git push
